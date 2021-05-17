@@ -1,5 +1,7 @@
 # Google Speech-to-Text
 
+Experimented with Google Speech-to-Text during the inovation day for transcribing Patreon audio posts with the purpuse of content moderation
+
 ## How to run
 
 1. Authenticate with Google and download application credentials
